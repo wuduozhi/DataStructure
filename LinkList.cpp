@@ -2,6 +2,12 @@
 #include<iostream>
 using namespace std;  
   
+/*
+    基于链表实现线性表
+
+*/
+
+
 //结点类  
 class Node {  
 public:  

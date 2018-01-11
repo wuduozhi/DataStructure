@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
 
+/*
+    基于链表实现栈
+*/
 /*链表节点结构*/
 template <typename T>
 struct Node

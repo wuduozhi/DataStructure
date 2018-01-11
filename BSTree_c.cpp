@@ -2,6 +2,11 @@
 #include<iomanip>
 using namespace std;
 
+/*
+   基于C语言实现二叉查找树
+
+*/
+
 class tree //节点链表结构的声明
 {  
 	public :

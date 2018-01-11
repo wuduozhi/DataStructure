@@ -2,6 +2,11 @@
 #include <stdlib.h>
 using namespace std;
 
+/*
+    基于数组实现栈
+
+*/
+
 template<typename T>
 class ArrayStack{
     private:

@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 
+/*
+    二叉查找树的实现
+*/
+
 //二叉查找树的节点结构
 template <typename T>
 struct BSNode
